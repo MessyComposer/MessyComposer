@@ -1,0 +1,12 @@
+name: Generate Hexagon Grid
+on:
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Hexagon Grid
+        uses: MessyComposer/github-profile-hexagon-grid@main

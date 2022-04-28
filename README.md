@@ -7,3 +7,8 @@
 <p align="center">
 <img src="hex_grid.svg" height="200px"/>
 </p>
+
+<!-- HEX-GRID:IMAGES ["cpp", "fabric", "node"] -->
+<!-- HEX-GRID:EFFECTS   ["glitch"] -->
+<!-- HEX-GRID:TRANSITIONS ["scale-in"] -->
+<!-- HEX-GRID:START --><!-- HEX-GRID:END -->
