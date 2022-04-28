@@ -10,3 +10,5 @@ jobs:
         uses: actions/checkout@v2
       - name: Generate Hexagon Grid
         uses: MessyComposer/github-profile-hexagon-grid@main
+        with:
+          as_base64: "false"
