@@ -5,7 +5,23 @@
 <h1 align="center">Duct tape applier</h1>
 <h2 align="center"><b>Currently working with</b></h2>
 <p align="center">
-<!-- HEX-GRID:IMAGES ["cpp", "fabric", "node", "python", "react"] -->
+<!-- HEX-GRID:IMAGES [
+    "cpp",
+    "fabric",
+    "node",
+    "python",
+    "react",
+    {
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg",
+        "hex": true,
+        "bg_fill": "#ffffffcc"
+    },
+    {
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+        "hex": true,
+        "bg_fill": "#ffffffaa"
+    }
+] -->
 <!-- HEX-GRID:EFFECTS   ["glitch"] -->
 <!-- HEX-GRID:TRANSITIONS ["scale-in"] -->
 <!-- HEX-GRID:START -->
