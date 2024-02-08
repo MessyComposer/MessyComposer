@@ -22,5 +22,5 @@
 <!-- HEX-GRID:EFFECTS   ["glitch"] -->
 <!-- HEX-GRID:TRANSITIONS ["scale-in"] -->
 <!-- HEX-GRID:START -->
-<a href="https://github.com/MessyComposer/github-profile-hexagon-grid"><img src="./grid.svg" height="100px"/></a>
+<a href="https://github.com/MessyComposer/github-profile-hexagon-grid"><img src="./grid.svg" height="200px"/></a>
 <!-- HEX-GRID:END -->
