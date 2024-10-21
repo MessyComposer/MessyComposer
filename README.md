@@ -4,7 +4,11 @@
 <h2>Duct tape applier</h2>
 <!-- HEX-GRID:IMAGES [
     "cpp",
-    "fabric",
+    {
+        "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+        "hex": true,
+        "bg_fill": "#ffffffcc"
+    },
     "node",
     "python",
     "react",
